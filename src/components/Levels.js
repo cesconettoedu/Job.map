@@ -91,26 +91,26 @@ h4 {
   
 }
 .statistics-btn:hover {
-  background-color: var(--clr-primary-200);
+  background-color: var(--clr-primary-700);
   cursor: pointer;
 }
 
 .resume-btn {
   width: 70%;
   margin-left: 15%;
-  background-color: var(--clr-primary-700);
+  background-color: var(--c7);
 }
 
 .hr-interviews-btn {
   width: 55%;
   margin-left: 22.5%;
-  background-color: var(--clr-primary-500);
+  background-color: var(--c8);
 }
 
 .tech-interviews-btn {
   width: 40%;
   margin-left: 30%;
-  background-color: var(--clr-primary-400);
+  background-color: var(--c9);
 }
 
 .offers_btn {

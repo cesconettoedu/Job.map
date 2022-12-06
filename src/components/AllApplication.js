@@ -190,18 +190,18 @@ text-align: center;
 }
 
 .resume-sent {
-  background-color: var(--clr-primary-600);
+  background-color: var(--c7);
   font-size:1.5rem;
 }
 
 
 .hr-interview {
-  background-color: var(--clr-primary-500);
+  background-color: var(--c8);
   font-size:1.5rem;
 }
 
 .tech-interview {
-  background-color: var(--clr-primary-500);
+  background-color: var(--c9);
   font-size:1.5rem;
 }
 

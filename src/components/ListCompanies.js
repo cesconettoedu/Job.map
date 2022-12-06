@@ -194,15 +194,15 @@ button {
 }
 
 .tech-interview {
-background-color: var(--clr-primary-500);
+background-color: var(--c9);
 }
 
 .hr-interview {
-  background-color: var(--clr-primary-600);
+  background-color: var(--c8);
 }
 
 .resume-sent {
-  background-color: var(--clr-primary-700);
+  background-color: var(--c7);
 }
 
 .container .hover-feature {
